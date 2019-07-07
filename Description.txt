@@ -1,0 +1,1 @@
+Time Calculator is a simple console app. Calculates the difference between two times inputted by user.
