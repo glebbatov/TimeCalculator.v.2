@@ -1,3 +1,9 @@
+<p align="left">
+  <img src="https://github.com/glebbatov/TimeCalculator.v.2/blob/master/Vcferreira-Firefox-Os-Clock.ico" width="125">
+  <h1>SimpleCalculator</h1></a>
+<p>
+
+
 # TimeCalculator.v.2.0
 Time Calculator is a simple console app. Calculates the difference between two times inputted by user.
 
